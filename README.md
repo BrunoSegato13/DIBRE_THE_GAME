@@ -8,13 +8,12 @@ Jogo desenvolvido para Arduino em Linguagem C <a href="https://www.tinkercad.com
 <b>Dibre The Game</b> é um jogo no estilo Jump and Run, onde o objetivo é ajudar nosso craque 
 "Dibraldinho" em uma alucinante fuga.
 
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img alt="Esquema de ligação" src="https://github.com/BrunoSegato13/DIBRE_THE_GAME/blob/master/img/esquema_ligacao.PNG">
+<img alt="Seleção do player"src="https://github.com/BrunoSegato13/DIBRE_THE_GAME/blob/master/img/selecao_player.PNG">
+<img alt="Game"src="https://github.com/BrunoSegato13/DIBRE_THE_GAME/blob/master/img/game.PNG">
+<img alt="Game over"src="https://github.com/BrunoSegato13/DIBRE_THE_GAME/blob/master/img/game_over.PNG">
 
-<img src="">
-<h2>Jogabilidade</h2>
+<img alt="controle"src="https://github.com/BrunoSegato13/DIBRE_THE_GAME/blob/master/img/controle.png" width="10" height="10"> <h2>Jogabilidade</h2>
 <hr>
 <ul>
     <li>Botão 1 - Navegação no menu</li>
